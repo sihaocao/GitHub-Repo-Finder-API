@@ -1,0 +1,1 @@
+This is a simple GitHub Repo Finder using GitHub Api. Enter an user's handle and click on the "List Repos" button to see all the repos belonging to that user.
